@@ -4,7 +4,6 @@ This Unity file includes files for the 100 Days of Shaders and Textures project 
 
 ### 100 Days of Shaders and Textures Repositories
 
-**For Unity files from the project, please see the following repositories:**
 * [hopeliz/100Days](https://github.com/hopeliz/100Days)
 * [hopeliz/100DaysUnityFiles](https://github.com/hopeliz/100DaysUnityFiles)
 * [hopeliz/100DaysUniversalRP](https://github.com/hopeliz/100DaysUniversalRP)
