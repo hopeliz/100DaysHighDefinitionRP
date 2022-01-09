@@ -1,3 +1,12 @@
+# 100 Days of Shaders and Textures - Unity HDRP Files
+
 This Unity file includes files for the 100 Days of Shaders and Textures project that uses the High Definition Render Pipeline.
 
-Please check out the other repositories for other Unity files for this project.
+### 100Days Repositories
+
+**For Unity files from the project, please see the following repositories:**
+* [hopeliz/100Days](https://github.com/hopeliz/100Days)
+* [hopeliz/100DaysUnityFiles](https://github.com/hopeliz/100DaysUnityFiles)
+* [hopeliz/100DaysUniversalRP](https://github.com/hopeliz/100DaysUniversalRP)
+* [hopeliz/100DaysHighDefinitionRP](https://github.com/hopeliz/100DaysHighDefinitionRP)
+* [hopeliz/100-days-day-69-backrooms](https://github.com/hopeliz/100-days-day-69-backrooms)
