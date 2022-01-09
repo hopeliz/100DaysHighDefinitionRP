@@ -2,7 +2,7 @@
 
 This Unity file includes files for the 100 Days of Shaders and Textures project that uses the High Definition Render Pipeline.
 
-### 100Days Repositories
+### 100 Days of Shaders and Textures Repositories
 
 **For Unity files from the project, please see the following repositories:**
 * [hopeliz/100Days](https://github.com/hopeliz/100Days)
